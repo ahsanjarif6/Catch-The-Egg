@@ -1,6 +1,6 @@
 
 # Catch The Egg
-CSE 102 Term Project using Igraphics.
+Catch-the-Egg is a simple 2D game developed in C using the IGraphics library, a thin wrapper on top of OpenGL for basic graphics operations. In this game, players control a basket that moves left and right to catch falling eggs while avoiding obstacles. The goal is to catch as many eggs as possible to score points.
 
 # IGraphics
 This is the repository for IGraphics library. IGraphics is a thin wrapper on top of OpenGL. This can be used for simple 2D graphics demonstrations, project work for C programming language course
